@@ -17,7 +17,8 @@ To my chagrin, being a pharmacist is not what I anticipated it being.
 - 2020: A year that requires some extra detail...
 
 1. Early 2020: The business owner of where I worked sold the book of business to a regional competitor.  
-Huge bummer, but my job was now redundant in the new structure and I assisted in negotiating my own layoff.  1/10 Do not recommend.  
+Huge bummer, but my job was now redundant in the new structure and I assisted in negotiating my own layoff.  
+1/10 Do not recommend.  
 2. April 2020: Started coding with the assistance of some friends.  
 3. July 2020: Joined Grand Circus Java/Back-end bootcamp.  
 4. September 2020: Graduated bootcamp.  Job hunt begins in earnest for an entry-level job in a new field.
